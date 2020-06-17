@@ -1,4 +1,4 @@
-package com.wdcloud.bootmybatisplus;
+package com.wdcloud;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
